@@ -7,8 +7,8 @@ WARNING: You need to have the System.Management dll !
 2. using RzyProtector;
 
 Features:
-RzyProtector.Protector.appCheckHash("link of your website file with your app hash"); | Check the MD5 hash of your application.
-RzyProtector.Protector.DownloadString("link"); | Same as Webclient, more faster for you when you make lot of functions with the webclient downloadstring.
+RzyProtector.Protector.appCheckHash("link of your website file with your app hash"); | Check the MD5 hash of your application.             
+RzyProtector.Protector.DownloadString("link"); | Same as Webclient, more faster for you when you make lot of functions with the webclient downloadstring.                                                                                                                             
 RzyProtector.Protector.GetMD5(); | Get the MD5 hash of your application.
 RzyProtector.Protector.AntiShit(); | Use this when user click on login or smthg, it check if somes programs like fiddler is open, if yes your application close.
 RzyProtector.Protector.DeleteFile("path"); | Delete a file silently.
